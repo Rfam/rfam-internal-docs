@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Rfam Team Internal Documentation
+=====================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+|docs|
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository is intended for use by Rfam team members only. It contains internal documentation on processes, how-tos, notes, and general information regarding Rfam. 
+This documentation is hosted on Read The Docs, and can be viewed here `Internal Docs <https://rfam-internal-docs.readthedocs.io/en/latest/>`_
