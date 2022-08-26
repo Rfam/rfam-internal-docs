@@ -8,6 +8,7 @@ authors = ["Emma Cooke <ecooke@ebi.ac.uk>"]
 python = "^3.8"
 Sphinx = "^5.1.1"
 sphinx-rtd-theme = "^1.0.0"
+myst-parser = "^0.18.0"
 
 [tool.poetry.dev-dependencies]
 
