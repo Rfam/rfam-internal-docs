@@ -6,6 +6,8 @@ authors = ["Emma Cooke <ecooke@ebi.ac.uk>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Sphinx = "^5.1.1"
+sphinx-rtd-theme = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
