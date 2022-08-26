@@ -16,5 +16,6 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 packages = [
-    { include = "rfam-internal-docs" }
+    { include = "rfam-internal-docs" },
+    { include = "source" }
 ]
