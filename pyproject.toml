@@ -5,7 +5,7 @@ description = ""
 authors = ["Emma Cooke <ecooke@ebi.ac.uk>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 
