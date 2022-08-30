@@ -18,23 +18,6 @@ The preview website runs directly from the **rfam-live** database. The OY VMs us
 
 The source code of the Rfam website is maintained on GitHub: [rfam-website](https://github.com/Rfam/rfam-website). Follow the Readme instructions to run the website locally using Docker.
 
-## Updating test website
+## Updating the website
 
-The test website runs on ves-hx-b7.ebi.ac.uk and is available off-campus at <https://preview.rfam.org>.
-
-```
-become xfm_adm
-
-ssh ves-hx-b7
-
-cd /nfs/public/rw/xfam/rfam/test/rfam-website
-# optional: check settings in config/rfamweb_local.conf
-
-git pull
-
-# clear cache 
-echo flush_all | nc ves-hx-b7.ebi.ac.uk 11211
-
-# Optional: restart Apache to apply Perl code changes (not needed for JS or HTML template changes)
-sudo /etc/init.d/httpd restart
-```
+The websites can be updated using **Jenkins** - simply choose the correct site (HX, OY, PG) from the dropdown website for the build `update_rfam_website`. 

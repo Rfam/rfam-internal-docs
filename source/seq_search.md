@@ -36,6 +36,6 @@ To test that the search works as expected, navigate to
 
 or 
 
-<http://www.ebi.ac.uk/Tools/rna/infernal_cmscan/> (testing environment) 
+<http://wwwdev.ebi.ac.uk/Tools/rna/infernal_cmscan/> (testing environment) 
 
 and try searching with a sequence from a new family that is only present in the new release. Make sure that the sequence is found by the correct family.

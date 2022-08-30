@@ -95,10 +95,12 @@ chmod +x fetchChromSizes
 - nextflow jobs will not run on codon from an interactive job, you must submit the jobs from a login node and monitor their progress with the output or the .nextflow.log
 - getting this error on codon, as are other users, no solution from IT as of yet
 
-> [rfamprod@hl-codon-30-03 rfam-production]$ nextflow run pdb_mapping/pdb_mapping.nf 
+```
+[rfamprod@hl-codon-30-03 rfam-production]$ nextflow run pdb_mapping/pdb_mapping.nf 
 
 N E X T F L O W ~ version 20.07.1
 
 Launching `pdb_mapping/pdb_mapping.nf` [backstabbing_stallman] - revision: e7ea86f012
 
 Signal already used by VM: HUP
+```

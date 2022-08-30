@@ -48,4 +48,5 @@ Contents
    website
    databases
    seq_search
+   text_search
 
