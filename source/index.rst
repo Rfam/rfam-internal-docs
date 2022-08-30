@@ -33,5 +33,19 @@ Contents
    :caption: Codon Migration:
 
    codon
+   setup 
+   software
+   data
+   perl 
+   code
 
+.. _general:
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :caption: General:
+
+   website
+   databases
+   seq_search
 

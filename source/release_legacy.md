@@ -1,6 +1,7 @@
+
 # Release Legacy Steps 
 
-These steps may be useful for future reference. 
+These steps may be useful for reference. 
 
 ## Generate annotated SEED files
 

@@ -1,6 +1,7 @@
+
 # Release Process
 
-The release process is carried out through the running of these steps: https://github.com/Rfam/rfam-production/tree/master/docs/release
+The release process is carried out through the running of [these steps](https://github.com/Rfam/rfam-production/tree/master/docs/release)
 
 The process is mostly automated, however some steps still require manual updates. Until the automation process is running smoothly, you may find it easier to run the workflows in the given order, to ease potential troubleshooting. 
 

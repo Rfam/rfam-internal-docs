@@ -54,6 +54,8 @@ This is a template checklist. It can be copied to the GitHub issue for each rele
 
 - Rfam.tar.gz
 
+- .tsv release stats file 
+
 
 ## Pre Announce
 
