@@ -27,7 +27,7 @@ Main database serving the main web VMs located in London.
 
 Host: pg-mysql-rfam-rel.ebi.ac.uk
 
-## Rfam Public (admin access)
+## Rfam Public 
 
 A public database used by Rfam users (the users have read only access, see credentials on Rfam Docs).
 
