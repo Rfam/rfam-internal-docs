@@ -16,6 +16,17 @@ It contains internal documentation on processes, how-to's, notes, and general in
 Contents
 --------
 
+.. _general:
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :caption: General:
+
+   website
+   databases
+   seq_search
+   text_search
+
 .. _release:
 .. toctree::
    :titlesonly:
@@ -39,14 +50,4 @@ Contents
    perl 
    code
 
-.. _general:
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :caption: General:
-
-   website
-   databases
-   seq_search
-   text_search
 
