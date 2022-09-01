@@ -7,7 +7,6 @@ The main database used for ongoing curation. All new families are immediately vi
 
 Host: mysql-rfam-live.ebi.ac.uk
 
-There is also an rfamro user (no password required) with read-only access.
 
 ## RfamRel
 
