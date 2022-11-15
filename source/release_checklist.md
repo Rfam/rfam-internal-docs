@@ -129,3 +129,6 @@ This is a template checklist. It can be copied to the GitHub issue for each rele
 
 - Create a release checklist for the next release
 
+- update config files
+  - rfam-production/config/rfam_local.py
+
