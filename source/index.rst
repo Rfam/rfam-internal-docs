@@ -26,7 +26,9 @@ Contents
    databases
    seq_search
    text_search
-
+   rfsearch
+   rfci
+   
 .. _release:
 .. toctree::
    :titlesonly:
