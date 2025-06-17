@@ -1,9 +1,9 @@
 
 # Websites
 
-There are two sets of machines that serve the live websites. PG virtual machines are in Hemel Hempstead (HH) and the OY VMs are located in Hinxton (HX). The load balancers ensure that most requests are handled by the PG machines with the OY machines serving as backup. The Rfam PG and OY VMs are run from separate directories and the update mechanism for each data-centre is different. 
+There are two sets of machines that serve the live websites. PG virtual machines are in Harlow 1 (HL1) and the OY VMs are located in Harlow 2 (HL2). The load balancers ensure that most requests are handled by the PG machines with the OY machines serving as backup. The Rfam PG and OY VMs are run from separate directories and the update mechanism for each data-centre is different. 
 
-The test website, `preview.rfam.org`, is served by a HL (Harlow) web VM. 
+The test website: `preview.rfam.org`, and dev are served by HL1 web VM. Fallback and disaster recovery sites are in HL2.
 
 The preview website runs directly from the **rfam-live** database. The OY VMs use the **fb1-mysql-rfam-rel.ebi.ac.uk** database while the PG VMs use the **pg-mysql-rfam-rel.ebi.ac.uk** database.
 
